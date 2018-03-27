@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+/.idea/*
+!/.idea/codeStyleSettings.xml
+!/.idea/sonarlint.xml
+*.iws
+*.iml
+*.ipr
+
+.DS*
